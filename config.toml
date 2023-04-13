@@ -2,4 +2,4 @@ baseURL = 'http://localhost/'
 languageCode = 'en-us'
 title = 'Mi página personal'
 
-theme = 'relearn'
+theme = 'relearn2'
